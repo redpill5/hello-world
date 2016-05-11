@@ -90,7 +90,9 @@ body {
   line-height: 1;
 }
 
-.rb {border: solid;}
+.rb {border: 1px;
+  font-weight: bold;
+}
 
 ol, ul {
   list-style: none;
