@@ -1,0 +1,15 @@
+use-case-0010 cross-border push payment low amount with cuurncy conversion
+
+default approach in 2016: 
+=========================
+correspondent banking system
+http://thefinanser.com/2015/11/the-complexity-of-correspondent-banking.html/
+
+
+Alternative approaches in 2016:
+===============================
+
+#1 use PayPal
+#2 use Ripple
+#3 use bitcoin
+
